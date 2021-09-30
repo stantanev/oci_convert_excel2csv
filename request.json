@@ -1,0 +1,6 @@
+{
+    "file_name":"SourceAPFile-20201116.xlsx",
+    "source_bucket":"stv_bucket_OIC",
+    "target_bucket":"stv_bucket_OSS",
+    "namespace":"sdc90vkxb5rj"
+}
