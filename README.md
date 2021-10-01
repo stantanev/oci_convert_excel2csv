@@ -1,4 +1,4 @@
-# Convert Excel Files to CSV with OIC
+# Convert Excel Files to CSV with OIC + Oracle Functions
 
 This repository hosts the code required to setup an Oracle Function that will convert Excel files in xlsx and xls to CSV. It also stores the artefacts required to create an Oracle Integration (OIC) flow that will call this function to perform Excel to CSV file conversion. 
 
