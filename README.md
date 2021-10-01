@@ -32,4 +32,4 @@ Feel free to replace these with anything you like but update the stage read sche
 - [SourceAPFile-20201116.xlsx](SourceAPFile-20201116.xlsx) & [SourceAPFile-20201117.xls](SourceAPFile-20201117.xls)
 
 
-**Note: This code is only intended to be used for dempnstration purposes to showcase the capabilities of OIC and related OCI services**__
+**Note: This code is only intended to be used for demonstration purposes to showcase the capabilities of OIC and related OCI services**__
