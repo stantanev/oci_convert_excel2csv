@@ -7,7 +7,7 @@ This code is accompanied by a blog article, available here:
 
 **Function Artefacts**
 
-- [requirements.txt](requirements.txt) specifies  the dependencies of the Excel2CSV conversion function
+- [requirements.txt](requirements.txt) specifies the dependencies of the Excel2CSV conversion function
 - [func.yaml](func.yaml) contains metadata about the function and declares associated properties
 - [func.py](func.py) contains the Python function that converts a single Excel file to a CSV
 
@@ -17,3 +17,18 @@ sample file to call the function:
 to invoke the above function store the sample request in function folder within Cloud Shell and run:
 
   `fn invoke stv_FN_Demo convertexcelfiles < request2.json`
+  
+ Limitation: 
+ - multiple worksheets are not supported
+
+**Oracle Integration (OIC) Artefacts**
+
+- [EXCELDEMO_PART1_01.00.0001.iar](EXCELDEMO_PART1_01.00.0001.iar) contains a sample integration that will thiger the above function 
+- [SourceAPFile-20201116.csv](SourceAPFile-20201116.csv) is used in the above integration to define the shema for the stage read operation
+
+Sample files: 
+
+Feel free to replace these with anything you like but update the stage read schema definition in the integration:
+- [SourceAPFile-20201116.xlsx](SourceAPFile-20201116.xlsx) & [SourceAPFile-20201117.xls](SourceAPFile-20201117.xls)
+
+
