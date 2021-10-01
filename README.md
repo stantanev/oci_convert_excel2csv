@@ -7,9 +7,12 @@ This code is accompanied by a blog article, available here:
 
 **Function Artefacts**
 
-- ../requirements.txt specifies all the dependencies for your function
-- /func.yaml contains metadata about your function and declares properties
-- ./func.py  which is your actual Python function 
+- [requirements.txt](requirements.txt) specifies  the dependencies of the Excel2CSV conversion function
+- [func.yaml](func.yaml) contains metadata about the function and declares associated properties
+- [func.py](func.py) contains the Python function that converts a single Excel file to a CSV
 
-to invoke function store sample request in function folder and run:
-  fn invoke stv_FN_Demo convertexcelfiles < request2.json
+sample file to call the function:
+- [request.json](request.json)
+
+to invoke the above function store the sample request in function folder within Cloud Shell and run:
+  `fn invoke stv_FN_Demo convertexcelfiles < request2.json`
