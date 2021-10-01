@@ -1,0 +1,5 @@
+Invoice_Num,Invoice_Date,Vendor_Name,Vendor_Site_Name,Invoice_Type,Amount Inc GST,Currency,Invoice Description
+RESMED000222,24/11/2020,Staffing Services,Staffing US1,ITEM,88,USD,Fruit
+RESMED000223,24/11/2020,Staffing Services,Staffing US1,ITEM,44,USD,Juice
+RESMED000224,24/11/2020,Staffing Services,Staffing US1,ITEM,188,USD,Chocolate
+RESMED000225,24/11/2020,Staffing Services,Staffing US1,ITEM,44,USD,Ice Cream
