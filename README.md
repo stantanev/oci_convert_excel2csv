@@ -29,7 +29,7 @@ to invoke the above function store the sample request in function folder within 
 Sample files: 
 
 Feel free to replace these with anything you like but update the stage read schema definition in the integration:
-- [SourceAPFile-20201116.xlsx](SourceAPFile-20201116.xlsx) & [SourceAPFile-20201117.xls](SourceAPFile-20201117.xls)
+- [XLS_example_1000.xls](XLS_example_1000.xls) & [SourceAPFile-20201117.xls](SourceAPFile-20201117.xls)
 
 
 **Note: This code is only intended to be used for demonstration purposes to showcase the capabilities of OIC and related OCI services**__
