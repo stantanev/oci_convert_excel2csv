@@ -3,7 +3,7 @@
 This repository hosts the code required to setup an Oracle Function that will convert Excel files from xlsx and xls format to CSV. It also stores the artefacts required to create an Oracle Integration (OIC) flow that will call this function to perform Excel to CSV file conversions. 
 
 This code is accompanied by a blog article, available here: 
-- XXXXX
+- https://redthunder.blog/2021/10/05/process-excel-files-with-oic-oracle-functions/
 
 Demo video available here:
 
