@@ -5,6 +5,8 @@ This repository hosts the code required to setup an Oracle Function that will co
 This code is accompanied by a blog article, available here: 
 - XXXXX
 
+Demo video available here:
+https://objectstorage.ap-sydney-1.oraclecloud.com/p/VvDdVVBcP4qV4OWBJeJR8OCmIjX6phMIhfrWhrngJ2nltEH-CnADBbkEgyZ7Zwcn/n/sdc90vkxb5rj/b/stv_bucket-20211005-2230/o/Excel2CSV.mp4 
 **Function Artefacts**
 
 - [requirements.txt](requirements.txt) specifies the dependencies of the Excel2CSV conversion function
