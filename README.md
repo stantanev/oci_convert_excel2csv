@@ -34,4 +34,4 @@ Feel free to replace these with anything you like but update the stage read sche
 - [XLS_example_1000.xls](XLS_example_1000.xls) & [XLSX_example_1000.xlsx](XLSX_example_1000.xlsx)
 
 
-**Note: This code is only intended to be used for demonstration purposes to showcase the capabilities of OIC and related OCI services**__
+**Note: This code is only intended to be used for demonstration purposes to showcase the capabilities of OIC and related OCI services**
