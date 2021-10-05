@@ -16,9 +16,9 @@ This code is accompanied by a blog article, available here:
 sample file to call the function:
 - [request.json](request.json)
 
-to invoke the above function store the sample request in function folder within Cloud Shell and run:
+to invoke the above function store the sample request in your function folder within Cloud Shell and run:
 
-  `fn invoke stv_FN_Demo convertexcelfiles < request2.json`
+  `fn invoke stv_FN_Demo convertexcelfiles < request.json`
   
  Limitation: 
  - Multiple worksheets are not supported. Function will only read the first worksheet
