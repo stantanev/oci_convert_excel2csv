@@ -1,5 +1,5 @@
 {
-    "file_name":"SourceAPFile-20201116.xlsx",
+    "file_name":"XLS_example_1000.xls",
     "source_bucket":"stv_bucket_OIC",
     "target_bucket":"stv_bucket_OSS",
     "namespace":"sdc90vkxb5rj"
