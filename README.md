@@ -11,6 +11,8 @@ This code is accompanied by a blog article, available here:
 - [func.yaml](func.yaml) contains metadata about the function and declares associated properties
 - [func.py](func.py) contains the Python function that converts a single Excel file to a CSV
 
+*Credit for the above code goes to Steve Lawton*
+
 sample file to call the function:
 - [request.json](request.json)
 
@@ -19,7 +21,7 @@ to invoke the above function store the sample request in function folder within 
   `fn invoke stv_FN_Demo convertexcelfiles < request2.json`
   
  Limitation: 
- - multiple worksheets are not supported
+ - Multiple worksheets are not supported. Function will only read the first worksheet
 
 **Oracle Integration (OIC) Artefacts**
 
