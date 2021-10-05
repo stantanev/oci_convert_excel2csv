@@ -11,7 +11,7 @@ This code is accompanied by a blog article, available here:
 - [func.yaml](func.yaml) contains metadata about the function and declares associated properties
 - [func.py](func.py) contains the Python function that converts a single Excel file to a CSV
 
-*Credit for the above code goes to Steve Lawton*
+*Credit for the above code goes to Steven Lawton*
 
 sample file to call the function:
 - [request.json](request.json)
