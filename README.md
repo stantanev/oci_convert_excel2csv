@@ -25,8 +25,8 @@ to invoke the above function store the sample request in your function folder wi
 
 **Oracle Integration (OIC) Artefacts**
 
-- [EXCELDEMO_PART1_01.00.0003.iar](EXCELDEMO_PART1_01.00.0003.iar) contains a sample integration that will thiger the above function 
-- [CSV_example_1000.csv](CSV_example_1000.csv) is used in the above integration to define the shema for the stage read operation
+- [EXCELDEMO_PART1_01.00.0003.iar](EXCELDEMO_PART1_01.00.0003.iar) contains a sample integration that will invoke the above function 
+- [CSV_example_1000.csv](CSV_example_1000.csv) is used in the above integration to define the schema for the stage read operation
 
 Sample files: 
 
